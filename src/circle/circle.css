@@ -1,0 +1,127 @@
+.circle-wrapper {
+    width: 23.4375em;
+    height: 23.4375em;
+    border-radius:51%;
+    left: 15%;
+    border: 1px solid #CACACA;
+    position:relative;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    background:#F5F5F5;
+    transform: translate(15%,20%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin:100px; */
+  }
+  
+  .circle {
+    cursor: pointer;
+    display:block;
+    position:absolute;
+    top:51%;
+    left:51%;
+    width: 50px;
+    height: 50px;
+    margin:-27px;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    background-color: #F5F5F5;
+    border:1px solid #CACACA;
+    /* background:red; */
+    border-radius:51%;
+    text-align:center;
+    line-height:100px;
+  }
+  
+  .deg-0 {
+    transform:translate(187.5px)
+  }
+  
+  .deg-45 {
+    transform:rotate(30deg) translate(187.5px) rotate(-30deg);
+  }
+  
+  .deg-90 {
+    transform:rotate(91deg) translate(187.5px) rotate(-91deg);
+  }
+  
+  .deg-135 {
+    transform:rotate(150deg) translate(187.5px) rotate(-150deg);
+  }
+  
+  .deg-180 {
+    transform:rotate(181deg) translate(187.5px) rotate(-181deg);
+  }
+  
+  .deg-225 {
+    transform:rotate(210deg) translate(187.5px) rotate(-210deg);
+  }
+  
+  .deg-270 {
+    transform:rotate(271deg) translate(187.5px) rotate(-271deg);
+  }
+  
+  .deg-315 {
+    transform:rotate(330deg) translate(187.5px) rotate(-330deg);
+  }
+  .tech-content{
+    text-align: center;
+    /* position: absolute; */
+    /* top: 50%; */
+    /* left: 50%; */
+    border-radius: 50%;
+    width: 275px;
+    height: 275px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    /* transform: translate(-50%,-50%); */
+  }
+  .tech-content h1{
+    margin-top: 20px;
+  }
+  .java{
+    background-image: url('../images/java.png');
+    background-size: 1.5em;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+  }
+  .figma{
+    background-image: url('../images/figma.png');
+    background-size: 1.5em;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+  }
+  .sql{
+    background-image: url('../images/sql.png');
+    background-size: 2em;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+  }
+  .cpp{
+    background-image: url('../images/c++.png');
+    background-size: 2em;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+  }
+  .file{
+    background-image: url('../images/file.png');
+    background-size: 1.5em;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+  }
+  .python{
+    background-image: url('../images/python.png');
+    background-size: 2em;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+  }

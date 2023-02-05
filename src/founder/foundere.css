@@ -1,0 +1,19 @@
+.lll{
+    float: left;
+    width: 35vw;
+    /* height: 100vh; */
+    text-align: center;
+}
+.founder{
+    height: 100vh;
+    /* position: relative; */
+}
+.rrr{
+    /* position: relative; */
+    float: left;
+    width: 65vw;
+    height: 100vh;
+}
+.rrr p{
+    font-size: larger;
+}

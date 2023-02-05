@@ -1,0 +1,37 @@
+.card{
+    border: 3px solid transparent;
+    transition: 3s;
+}
+.tech-card:hover{
+    border: 3px solid transparent;
+    background-image: linear-gradient(white,white),linear-gradient(#3795F5,#49E6E9);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+}
+.softskill-card:hover{
+    border: 3px solid transparent;
+    background-image: linear-gradient(white,white),linear-gradient(90deg, #F44E4E 0.51%, #EC4343 100%); ;
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+  }
+  .junior-card:hover{
+    border: 3px solid transparent;
+    background-image: linear-gradient(white,white),linear-gradient(90deg, #F1F435 0.51%, #FED701 100%);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+  }
+  .designer-card:hover{
+    border: 3px solid transparent;
+    background-image: linear-gradient(white,white),linear-gradient(55.72deg, #4EC08C -2.87%, #93F9B9 101.17%);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+  }
+.cards{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    justify-content: space-around;
+}
+.cp{
+    /* height: 100vh; */
+}

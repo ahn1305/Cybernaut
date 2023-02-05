@@ -1,0 +1,87 @@
+.scp{
+    height: 150vh;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: relative; */
+}
+.sc-card{
+    width: 60vw;
+    position: sticky;
+    z-index: 50;
+    height: 100vh;
+    justify-content: center;
+    position: absolute;
+    background-color: #FAFAFA;
+    /* border: 2px solid black; */
+    box-shadow: 0px 4px 7px 0px #00000040;
+
+}
+.hh{
+    width: 60vw;
+    height: 15vh;
+    margin-top: 5vh;
+}
+.ll{
+    float: left;
+    width: 20vw;
+    height: 15vh;
+    display: flex;
+    justify-content: end;
+}
+.rr{
+    float: left;
+    width: 35vw;
+    height: 15vh;
+    padding-left: 1em;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+.cen{
+    width: 50vw;
+    text-align: center;
+    margin-top: 7vh;
+    margin-left: 5vw;
+}
+.blue-box{
+    width: 50vw;
+    text-align: center;
+    padding: 1em;
+    border-radius: 5px;
+    color: white;
+    background: linear-gradient(90.89deg, #3797F4 -4.47%, #49E5E9 100%);
+    margin-top: 5vh;
+    margin-left: 5vw;
+}
+.grey-button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-left: 25vw;
+    border-radius: 1.5em;
+    background-color: #F3F3F3;
+    display: inline-block;
+}
+.grey-button a{
+    text-decoration: none;
+    color: black;
+}
+.l{
+    position: sticky;
+    z-index: 100;
+    width: auto;
+    height: 20%;
+    float: left;
+    transform: translate(-80%,-110%);
+}
+.r{
+    position: sticky;
+    /* z-index: -150; */
+    transform: translate(70%,-15%);
+    /* right: 0%; */
+    /* width: auto; */
+    /* height: 100%; */
+}

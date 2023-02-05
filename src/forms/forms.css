@@ -1,0 +1,138 @@
+.formbox{
+    height: 73%;
+    width: 100%;
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    height: 90%;
+    width: 45%;
+    margin-left: 3%;
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+
+}
+.formtext{
+    height: 90%;
+    width: 45%;
+    margin-left: 2%;
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color:#FAFAFA;
+    font-size: 16px;
+    resize: none;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 32px;
+letter-spacing: 0.05em;
+
+color: #6D6D6D;
+  }
+  #formname{
+    width: 100%;
+    height: 60px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #FAFAFA;
+    font-size: 16px;
+    resize: none;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 32px;
+letter-spacing: 0.05em;
+margin-bottom: 10px;
+
+color: #6D6D6D;
+  }
+  #send{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 32px;
+/* padding-left: 3px; */
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+border-radius: 22px;
+border: none;
+  }
+  #arr{
+    /* margin-left: 10px; */
+    vertical-align: middle;
+   
+  }
+  #cname{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 32px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+  }
+  #cnametext{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 24px;
+letter-spacing: 0.1em;
+color: #1A1A1A;
+  }
+  #icons{
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+  }
+  #iconpos{
+    margin-top: 10px;
+    padding-left: 10px;
+  }
+  .say{
+    margin-top: 6%;
+    height: 75px;
+    width: 704px;
+    /* border: 1px solid; */
+    display: flex;
+
+}
+#saytext{
+    font-family: 'Poppins';
+    margin-left: 10%;
+    margin-top: 1.5%;
+font-style: normal;
+font-weight: 600;
+font-size: 200%;
+line-height: 50px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+}
