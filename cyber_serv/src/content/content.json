@@ -1,0 +1,46 @@
+{
+    "cpp":{
+        "headtitle":"C++ Programming",
+        "Description":"For all the youngsters interested in developing games and gaming consoles (Xbox, PlayStation, and Nintendo Switch) to the people interested in developing operating systems and browsers, C++ is the answer. It is a general-purpose programming language that is powerful. C++ supports different ways of programming like procedural, functional, etc. making it flexible and portable. Being an object-oriented programming language, it gives a clear structure to programs and allows code to be reused, lowering development costs. Also, it supports the four primary features of OOP: encapsulation, polymorphism, abstraction, and inheritance.C++ is a superset of C language. If one knows the C programming language, C++ is very easy to learn as both are similar. "
+    },
+    "java":{
+        "headtitle":"Java Programming",
+        "Description":"Applications that are constructed in laptops to the scientific supercomputers, all are done with Java. It is the world's third most popular programming language, after Python and C –.  Use cases of Java have expanded to Data Science applications, Machine Learning applications, and IoT, which makes it most preferred for designing various applications. The high-level concurrency tools and packages make it possible to create highly scalable solutions. If you want high security and easy coding experience, then you should learn Java."
+    },
+    "python":{
+        "headtitle":"python Programming",
+        "Description":"With the advancements in technology, it is expected that everything should become simple to do. Everyone who expects that coding should also be simple, Python programming language is the solution. Python is one of the most accessible programming languages available because it has simplified syntax. Python is said to be “loosely typed” as this programming language doesn’t require you to state the type of value a function returns when you define the function or the type of a variable before you create it. It is used for web development, AI, ML(Machine Learning), operating systems, mobile application development, developing software, task automation, data analysis, and data visualization. Simple video games can also be built using python. Anyone who feels they don't know where to begin in coding, start with python."
+    },
+    "mysql":{
+        "headtitle":"MySQL",
+        "Description":"The famous websites that we see such as Facebook, Twitter, Airbnb, Booking.com, Uber, GitHub, YouTube, etc. all use an open-source database. MySQL is the second-most-popular database used and has numerous features. So there is a high chance that your favorite application is supported by MySQL database. It is preferred by many as it is reliable, compatible, cost-effective, and easy to manage. To find out more about how it supports these applications and how you can do the same, learn MySQL."
+    },
+    "communication":{
+        "headtitle":"Communication",
+        "Description":"Communication is the basic means of sharing information from one person to another. The information should be shared clearly and understandably. For this good communication skills are needed. To make your communication crystal clear, you need to practice on a daily basis. The stronger the communication skills the easier it is to speak. Take up communication to become a better speaker."
+    },
+    "contentWriting":{
+        "headtitle":"Content writing",
+        "Description":"Content writing is like a mirror of one's personality. Through content writing, you can innovatively express your thoughts. The quality of content can be found out from their hold over the language and their choice of words. Content writing can include writing blog posts and articles, scripts for videos and podcasts, as well as content for specific platforms, such as tweetstorms on Twitter, text posts on Reddit, or scripts for Youtube. Be it any form of writing it is all content writing. Perfection in writing only comes with hours of practice. Start your practice today."
+    },
+    "basicAptitude":{
+        "headtitle":"Basic Aptitude",
+        "Description":"Out of a hundred candidates, when you have to choose the best, it is a task. Going through hundreds of applications is not determining the right person for the role. Having an aptitude test is a way to find one’s ability with various tests in an interview. Mastering the basic concepts helps in the testing process. Being logically sound is one of the major criteria to pass this process. Each question tests you in a number of ways, not only in the genre it is asked from. Skills don't determine your post but the combination of logic and skills does. Learn the basics of aptitude to get through any interview smoothly."
+    },
+    "spokenEnglish":{
+        "headtitle":"Spoken English",
+        "Description":"English is one of the most commonly spoken languages worldwide and is understood by the majority and a basic hold on it will make communicating simple and easy. Being a common language, knowing it will help broaden your world while increasing job opportunities and will help relate to people more. Basic English knowledge is a must for you to speak to others. Grasp the basics of spoken English."
+    },
+    "figma":{
+        "headtitle":"Figma",
+        "Description":"All the apps that we use have a user interface. Have you ever had an interest to design them? Figma is a tool that can be used to design user interfaces for apps and also for web pages. It is a vector graphics tool and can easily be accessed via the web. The best part is, it is available on all platforms like Windows, Linux, and Mac. Figma is an easy platform to design compared to others and can be used by a group to design. A project which one is working on can easily be shared with the other group members and we can easily see who it was edited by last. The pen tool in Figma allows you to connect paths to closed shapes in order to construct 3D forms in the same way you would if you were drawing on paper. If designing is your interest, Figma is the right platform for you."
+    },
+    "adobePremiere":{
+        "headtitle":"Adobe premiere pro",
+        "Description":"Want to design a video that is artistic and can be done quickly? Adobe Premiere Pro is an editing software used for creating innovative and wonderful videos quickly.  It also includes an audio editing functionality which helps create better videos and edit them. It is often used with After Effects and Photoshop for better and more creative projects. It is generally used by video production firms, news stations, marketing professionals, and design firms. Want a quick designed video, here is the answer"
+    },
+    "adobeAfter":{
+        "headtitle":"Adobe after effects",
+        "Description":"Ever wondered how Nike has great advertisements? They are all done with adobe after effects. It is a software used for adding motion animation and visual effects. It has hundreds of effects that can be used to manipulate imagery and can be used to combine various layers of images and videos into the same frame. With the help of after effects, you can create 2D Vector Animation, Basic 3D Animation, Character Animation, Kinetic Typography, UI/UX mock-up animations, and Visual Effects. Design your way through and learn adobe after effects"
+    }
+}

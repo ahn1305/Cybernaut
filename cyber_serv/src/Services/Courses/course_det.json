@@ -1,0 +1,70 @@
+{
+    "tech_pack":{
+        "head":"Technical Enlightment",
+        "courses":[
+           {
+            "id":"java",
+            "name":"Java Programming",
+            "price":"799"
+           },{
+            "id":"python",
+            "name":"Python Programming",
+            "price":"799"
+           },{
+            "id":"cpp",
+            "name":"C++ Programming",
+            "price":"799"
+           },{
+            "id":"mysql",
+            "name":"MySQL",
+            "price":"799"
+           }
+        ]
+    },
+    "non_tech_pack":{
+        "head":"Genralized Enlightment",
+        "courses":[
+           {
+            "id":"communication",
+            "name":"Communication",
+            "price":"799"
+           },{
+            "id":"contentWriting",
+            "name":"Content Writing",
+            "price":"799"
+           }
+        ]
+    },
+    "Junior_pack":{
+        "head":"Junior Enlightment",
+        "courses":[
+           {
+            "id":"basicAptitude",
+            "name":"Basic Aptitude",
+            "price":"799"
+           },{
+            "id":"spokenEnglish",
+            "name":"Spoken English",
+            "price":"799"
+           }
+        ]
+    },
+    "Design_pack":{
+        "head":"Creative Enlightment",
+        "courses":[
+           {
+            "id":"figma",
+            "name":"Figma",
+            "price":"799"
+           },{
+            "id":"adobePremiere",
+            "name":"Adobe Premiere Pro",
+            "price":"799"
+           },{
+            "id":"adobeAfter",
+            "name":"Adobe After Effects",
+            "price":"799"
+           }
+        ]
+    }
+}

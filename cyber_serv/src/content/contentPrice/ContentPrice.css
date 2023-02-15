@@ -1,0 +1,63 @@
+.pricedetupper{
+    position: sticky;
+    top: 8vh;
+    display: inline-block ;
+    float: right;
+    height: 90vh;
+    width: 50vh;
+    border: 2px solid transparent;
+    border-radius: 45vh 0 0 45vh;
+    background-image: linear-gradient(white,white),linear-gradient(#68AFF6,#46DFE9);
+    background-clip: content-box,border-box;
+    overflow: hidden;
+    z-index: 2;
+    shape-outside: circle();
+}
+.pricedetupper p{
+    font-size: 14px;
+
+}
+.priceDet{ 
+    margin:5px 10px 10px 40px;
+        height: 85%;
+}
+.detss{
+    height:26%;
+    text-align: right;
+    padding-right: 10px;
+    padding: 0;
+    padding: 10px 0;
+
+}
+hr{
+    padding: 0;
+    margin: 0;
+    margin-top: 5px;
+}
+.d_Right{
+    /* padding-left: 7em;    */
+    text-align: left;
+}
+.detss > h6{
+    margin: 0;
+    font-size: 16px;
+}
+.detss >h5{
+    background: linear-gradient(90.59deg, #3796F4 2.39%, #47E2E9 98.54%);
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+.cirdet{
+    height: 90%;
+}
+.ext{
+    padding-left: 30px;
+}
+.buynow{
+    background: linear-gradient(90.59deg, #3796F4 2.39%, #47E2E9 98.54%);
+    outline: none;
+    border: none;
+    margin-right: 1rem;
+
+}

@@ -1,0 +1,28 @@
+.navbar{
+    padding: 0;
+    position: sticky;
+    top: 0;
+    display: block;
+    z-index: 2;
+    height: 13vh;
+    width: 100%;
+    background-color: white;
+}
+li{
+    padding: 0 20px;
+cursor: pointer;
+white-space: nowrap;
+}
+li:hover{
+    background-color: rgba(220, 226, 226, 0.233);
+    border-radius: 10px;
+}
+.nav-link{
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,56 @@
+.card{
+    border: solid 3px transparent;
+    text-align: left;
+  }
+  .card-img{
+    width: 90%;
+    margin: auto ;
+    margin-top: 20px;
+}
+.card-title{
+    color: black;
+    margin: 10px 0px;
+}
+.sub{
+    color: #a6a6a6;
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.price{
+    display: inline-block;
+    color: #000000;
+    margin-top: 10px;   
+    padding: 11px 13px;
+    border-radius: 6px;
+    background-color: #f5f5f5;
+}
+#tech_pack  .card:hover{
+    background-image: linear-gradient(white,white),
+    linear-gradient(to right,#418BF3,#57EBE4);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+    cursor: pointer;
+}
+#non_tech_pack  .card:hover{
+    background-image: linear-gradient(white,white),
+    linear-gradient(to right,#FF5E5E,#EC4343);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+    cursor: pointer;
+}
+#Junior_pack .card:hover{
+    background-image: linear-gradient(white,white),
+    linear-gradient(to right,#FFB800,#FED701);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+    cursor: pointer;
+}
+#Design_pack .card:hover{
+    background-image: linear-gradient(white,white),
+    linear-gradient(to right,#C437F2,#E547DB);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+    cursor: pointer;
+}

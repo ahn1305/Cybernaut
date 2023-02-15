@@ -1,0 +1,16 @@
+.container{
+    padding-top:20px;
+    padding-bottom:20px ;
+    position: relative;
+    
+}
+.head{
+    color: #000000;
+    margin-left: 1em;
+    font-family: Poppins;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+}

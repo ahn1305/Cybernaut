@@ -1,0 +1,24 @@
+.addtocart{
+    display: grid;
+    grid-template-columns: auto 25%;
+}
+.cart{
+    background-color: #fafafa;
+    height: 87vh;
+    display: grid;
+    grid-template-rows: 90% 10%;
+}
+.cart > .addedcourse{
+    display: grid;
+    justify-content: center;
+}
+.cart > .addedcourse > h4{
+    text-align: center;
+}
+.cart > .checkout{
+    border: 0;
+}
+.cart > .addedcourse > .courseList {
+display: block;
+overflow-y: scroll;
+}
